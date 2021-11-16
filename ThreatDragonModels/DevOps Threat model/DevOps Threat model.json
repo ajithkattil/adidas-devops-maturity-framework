@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "description": "DevOps echo system",
+    "title": "DevOps Threat model",
+    "owner": "ajith"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "ajith"
+  }
+}
